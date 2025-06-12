@@ -2,7 +2,7 @@
 
 # Firefox to LibreWolf Migration Script for macOS
 # This script migrates Firefox data to LibreWolf without deleting Firefox data
-# https://github.com/yourusername/firefox-to-librewolf-migration
+# https://github.com/jamubc/firefox-to-librewolf-migration
 
 set -e  # Exit on error
 
