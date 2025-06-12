@@ -49,12 +49,12 @@ brew install --cask librewolf
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/firefox-to-librewolf-migration.git
+git clone https://github.com/jamubc/firefox-to-librewolf-migration.git
 cd firefox-to-librewolf-migration
 
 # Or download the scripts directly
-curl -O https://raw.githubusercontent.com/yourusername/firefox-to-librewolf-migration/main/migrate.sh
-curl -O https://raw.githubusercontent.com/yourusername/firefox-to-librewolf-migration/main/verify.sh
+curl -O https://raw.githubusercontent.com/jamubc/firefox-to-librewolf-migration/main/migrate.sh
+curl -O https://raw.githubusercontent.com/jamubc/firefox-to-librewolf-migration/main/verify.sh
 
 # Make them executable
 chmod +x migrate.sh verify.sh
